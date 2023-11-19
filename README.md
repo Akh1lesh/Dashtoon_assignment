@@ -1,5 +1,5 @@
 # Dashtoon_assignment
-1.Dashtoon_assignment.ipynb : Created a non-sequential model with two inputs and one output
+1.Dashtoon_assignment.ipynb : Created a non-sequential model with two inputs and one output.
 InputA is content image
 InputB is style image
 
